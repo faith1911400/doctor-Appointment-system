@@ -1,2 +1,3 @@
 # doctor-Appointment-system
-is online doctor patience appointment sysyem
+is an online doctor appointment sysyem where:
+patient is able to contact with the Doctors in easy way
